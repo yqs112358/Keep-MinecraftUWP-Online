@@ -16,5 +16,8 @@ A small tool to **prevent** your Minecraft UWP from disconnected when you minimu
 ## Notes
 
 You need to run this `Enable.cmd` once per Windows user session. After logging out, this function will be disabled automatically.
+If you find it troublesome to run the script manually every time, you can set it to start on boot.
+
+## Principle
 
 Introduction about PLMDebug: [PLMDebug - Windows drivers | Microsoft Docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/plmdebug)
