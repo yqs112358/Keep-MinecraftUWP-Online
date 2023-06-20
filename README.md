@@ -21,3 +21,5 @@ If you find it troublesome to run the script manually every time, you can set it
 ## Principle
 
 Introduction about PLMDebug: [PLMDebug - Windows drivers | Microsoft Docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/plmdebug)
+
+**Tips:** This Keep-Online function is implemented via Debug mode, so it may have some unpredictable negative effects on Minecraft game performance.
